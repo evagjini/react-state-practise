@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  display: grid;
+  place-content: center;
+  gap: 2rem;
+  background: indianred;
+  height: 100vh;
+}
+
+.count {
+  color: none;
+  color: white;
+}
+.button {
+  font-size: 2rem;
+  color: black;
+  border-color: white;
+  background: none;
+}
